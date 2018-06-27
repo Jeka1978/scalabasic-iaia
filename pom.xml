@@ -8,6 +8,8 @@
     <artifactId>scala-basic</artifactId>
     <version>1.0</version>
 
+
+    <!--https://confluence.jetbrains.com/display/SCA/Scala+Plugin+for+IntelliJ+IDEA-->
     <dependencies>
         <dependency>
             <groupId>org.fluttercode.datafactory</groupId>
